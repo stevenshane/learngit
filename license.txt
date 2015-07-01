@@ -1,3 +1,5 @@
 Test for git.
+I'm working at the first mechine.
+I modify the license.txt at the first mechine once again.
 I'm working in another directory H:/
 And this time I modify somethine about license.txt.
