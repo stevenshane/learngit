@@ -1,2 +1,3 @@
 Test for git.
 I'm working at the first mechine.
+I modify the license.txt at the first mechine once again.
