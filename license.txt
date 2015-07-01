@@ -1,2 +1,3 @@
 Test for git.
 I'm working in another directory H:/
+And this time I modify somethine about license.txt.
